@@ -1,0 +1,1 @@
+WidthsAver_Speed = [WidthsAver_Speed; mean([PeaksWidths.Width]), median([PeaksWidths.Width]), Dyn_OneEnd(i_ph,3), Dyn_OneEnd(i_ph,2) - Dyn_OneEnd(i_ph,1) + 1, length(PeaksWidths), p(1)];WidthsAver_Speed = [WidthsAver_Speed; mean([PeaksWidths.Width]), median([PeaksWidths.Width]), Dyn_OneEnd(i_ph,3), Dyn_OneEnd(i_ph,2) - Dyn_OneEnd(i_ph,1) + 1, length(PeaksWidths), p(1)];
